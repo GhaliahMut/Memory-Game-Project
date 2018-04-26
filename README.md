@@ -1,5 +1,5 @@
 # Memory Game Project 
-Table of Contents
+# Table of Contents
 
 * [What is Memory Game](#what-is-memory-game)
 * [How to Play](#how-to-play)
