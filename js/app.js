@@ -18,6 +18,14 @@ $('.card').on ('click',function(){
 	cardsSelector(this);
 });
 
+//restart game button function
+restartGame = ()=>{
+	$('.restart').click(function() {
+	setTimeout(location.reload(true), 1000);
+	});
+};
+
+
 
 // Create a cards array to pull all cards from HTML DOM
 function pullCards(){
@@ -42,7 +50,7 @@ function transformer(obj){
 function displayCards(){
 	let list = cardsFactory();
 	replacer (list);
-};
+}
 
 function replacer(list){
 	document.getElementsByClassName("deck")[0].innerHTML= list.innerHTML;
