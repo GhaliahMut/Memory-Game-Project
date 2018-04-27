@@ -1,11 +1,9 @@
 # Memory Game Project 
-
-# Project Purpose: 
-This game was build for the Udactity Front-End Nanodegree Program.
+This game was built for the Udactity Front-End Nanodegree Program.
 
 # Table of Contents
 * [How to Play Memory Game](#how-to-play-memory-game)
-* [Used Resources] (#used-resources)
+* [Used Resources to complete the project] (#used-resources-to-complete-the-project)
 
 
 ## How to Play Memory Game 
@@ -19,7 +17,7 @@ On each turn:
 * If the cards do not match, both cards are flipped face down.
 * The game ends once all cards have been correctly matched.
 
-*Open this link in your browser to play [Memory Game](https://ghaliahmut.github.io/Memory-Game-Project/).
+* Open this link in your browser to play [Memory Game](https://ghaliahmut.github.io/Memory-Game-Project/).
 
 
 ### Special Features
