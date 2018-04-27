@@ -3,7 +3,7 @@ This game was built for the Udactity Front-End Nanodegree Program.
 
 # Table of Contents
 * [How to Play Memory Game](#how-to-play-memory-game)
-* [Used Resources to complete the project] (#used-resources-to-complete-the-project)
+* [Resources](#resources)
 
 
 ## How to Play Memory Game 
@@ -26,7 +26,7 @@ On each turn:
 * When the game ends, a pop-up appears with the elapsed time, final stars rating and a restart button.
 
 
-## Used Resources to complete the project
+## Resources
 
 ### Shuffle function
 * http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
